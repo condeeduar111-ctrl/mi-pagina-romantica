@@ -1,2 +1,2 @@
-# mi-pagina-romantica
+# index.html
 : index.html

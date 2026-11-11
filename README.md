@@ -1,2 +1,2 @@
 # mi-pagina-romantica
-: Mi página web especial
+: index.html
